@@ -13,7 +13,7 @@ pub fn timer() {
     let mut min_count = 0;
     
     // you would have to forcfully break from the loop in cmd line(ctrl + c)
-    //which i am not to happy about
+    //which i am not to happy with --> Check out the new version timer_updated.rs for graceful breaking :)
 
         while true {
     
