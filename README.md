@@ -9,7 +9,7 @@
 
 ### Enough Waffling Here are the Two Main Branches that i Push all my Projects in
 
-- 🫵 Click here to Go to the Basic Project Branch -> [Basic Projects] (https://github.com/karthi505/rust_projects/tree/basic-projects)
+- 🫵 Click here to Go to the Basic Project Branch -> [Basic Projects](https://github.com/karthi505/rust_projects/tree/basic-projects)
 
-- 🫵 Click here to Go to the Advanced Project Branch -> [Advanced Projects] (https://github.com/karthi505/rust_projects/tree/advanced-projects)
+- 🫵 Click here to Go to the Advanced Project Branch -> [Advanced Projects](https://github.com/karthi505/rust_projects/tree/advanced-projects)
   
